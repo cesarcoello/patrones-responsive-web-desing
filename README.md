@@ -17,3 +17,7 @@ Antes de comenzar con este repositorio, es importante tener un conocimiento bás
 
    ```bash
    git clone https://github.com/tuusuario/aprendizaje-responsive-web-design.git
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. 
